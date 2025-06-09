@@ -5,7 +5,7 @@ This is a simple React application that dynamically displays a credit card layou
 
 
 
-![Credit Card UI Screenshot](.src/screenshot.png)
+![Credit Card UI Screenshot](./src/screenshot.png)
 
 
 # Features
